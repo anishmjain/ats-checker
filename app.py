@@ -76,3 +76,5 @@ if submit:
             st.write("Failed to extract text from the uploaded PDF. Please check the file and try again.")
     else:
         st.write("Please upload the resume")
+
+
